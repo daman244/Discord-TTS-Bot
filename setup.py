@@ -109,4 +109,4 @@ async def yes(ctx):
 async def no(ctx):
     await bot.close()
 
-bot.run(token)
+bot.run(Nzc4ODc4ODkyOTcwMzQ0NDQ5.X7YZyA.TOFaVyCC3xnqgtbKbaxBLwGkL-k)
